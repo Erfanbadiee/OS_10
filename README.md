@@ -39,6 +39,7 @@ fi
 
 
 
+
 2.
 
 #!/bin/bash
@@ -51,6 +52,7 @@ do
   mkdir user$i
   
 done
+
 
 
 
@@ -78,6 +80,7 @@ do
         mv $file $dir/img$((++i)).png
         
 done
+
 
 
 
